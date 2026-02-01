@@ -1,0 +1,5 @@
+[theme]
+base = "light"             # Nền sáng (Trắng) -> Khắc phục lỗi ảnh đen
+primaryColor = "#8B0000"   # Màu chính: Đỏ đô (Dark Red) -> Tạo cảm giác truyền thống
+backgroundColor = "#FFFFFF"# Nền trắng tinh
+secondaryBackgroundColor = "#FFE5E5" # Màu nền phụ (cho Sidebar): Hồng nhạt cho hợp tông
